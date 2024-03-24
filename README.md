@@ -1,2 +1,2 @@
 # action_tutorial
-github action 실습 레포지토
+github action 실습 레포지토리
